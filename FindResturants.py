@@ -1,6 +1,5 @@
 import requests
 apikey='AIzaSyC_21djKfxgIhoPaUlWH7hZL6GpuI1etyI'
-
 url='https://maps.googleapis.com/maps/api/place/findplacefromtext/json?'
 locationBias='locationbias=circle%3A2000%4047.6918452%2C-122.2226413'
 
